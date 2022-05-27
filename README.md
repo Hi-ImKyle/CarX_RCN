@@ -1,4 +1,7 @@
 # CarX RCN
+![GitHub all releases](https://img.shields.io/github/downloads/Hi-ImKyle/CarX_RCN/total)
+![My Discord](https://img.shields.io/badge/Discord-Kyle%230420-738ADB)
+
 Real Car Names for CarX
 
 ## Name Override
