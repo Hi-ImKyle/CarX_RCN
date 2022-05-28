@@ -2,7 +2,7 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Hi-ImKyle/CarX_RCN/total)
 ![My Discord](https://img.shields.io/badge/Discord-Kyle%230420-738ADB)
 
-Real Car Names for CarX
+Real Car Names for CarX, [Click here for the latest release](https://github.com/Hi-ImKyle/CarX_RCN/releases/latest)
 
 ## Name Override
 You can override any names provided by the mod by creating a file called `rcn_override.json` next to the game exe then put the following inside.
