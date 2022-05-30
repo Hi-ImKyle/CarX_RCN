@@ -22,3 +22,7 @@ Please submit a issue for any new cars and what you think/know they are.
 ## Shout Outs
 - ZML Team
 - KINO Team
+
+## Don't redistribute any releases
+Just link this GitHub page to whoever wants it.
+Looking at you LiLLobby.
