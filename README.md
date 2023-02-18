@@ -7,6 +7,8 @@
 
 I know this is broken at the moment, I'm working on fixing it again, no eta though. New Discord if you need to contact me, `KingFisher#0001`, thanks.
 
+---
+
 Real Car Names for CarX, [Click here for the latest release](https://github.com/Hi-ImKyle/CarX_RCN/releases/latest)
 
 ## Name Override
