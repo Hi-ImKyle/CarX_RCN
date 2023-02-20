@@ -5,7 +5,7 @@
 
 # Hey!
 
-I know this is broken at the moment, I'm working on fixing it again, no eta though. New Discord if you need to contact me, `KingFisher#0001`, thanks.
+RCN is undergoing some small changes. Nothing huge, but I'm removing the default names fetching and relying entirely on the user to provide names, as well as a reload while in game option so if you want to test colours or whatever you can without restarting everytime. New Discord if you need to contact me, `KingFisher#0001`, thanks.
 
 ---
 
