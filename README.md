@@ -3,15 +3,32 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/Hi-ImKyle/CarX_RCN/total)
 ![My Discord](https://img.shields.io/badge/Discord-KingFisher%230001-738ADB)
 
-# Hey!
-
-RCN is undergoing some small changes. Nothing huge, but I'm removing the default names fetching and relying entirely on the user to provide names, as well as a reload while in game option so if you want to test colours or whatever you can without restarting everytime. New Discord if you need to contact me, `KingFisher#0001`, thanks.
-
 ---
 
-Real Car Names for CarX, [Click here for the latest release](https://github.com/Hi-ImKyle/CarX_RCN/releases/latest)
+Real Car Names for CarX, [Click here for the latest releases](https://github.com/Hi-ImKyle/CarX_RCN/releases/latest)
 
-## Name Override
+## Which Version do I choose?
+If you are using ZML and you want the latest RCN version, then the ZML version.
+
+If you are using anything else then the BepInEx version will suffice as long as BepInEx is present of course. 
+
+Note that the BepInEx version does not have a reload option, nor does it have `Stop Scrolling Names`.
+
+`Stop Scrolling Names` is a basic feature that just prevents the names in the garage list view from scrolling if they are too long.
+
+## Name Override - ZML Version
+
+You can override/add any names provided by the mod by editing the json file at `ZML/mods/RCN/names.json`. The format is as follows.
+
+```json
+{
+  "InternalCarName": "Your New Desired Name",
+}
+```
+
+You can change names with the game loaded as there is a `Reload JSON` available on the ZML UI.
+
+## Name Override - BepInEx Version
 
 You can override any names provided by the mod by creating a file called `rcn_override.json` next to the game exe then put the following inside.
 
