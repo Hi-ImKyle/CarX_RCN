@@ -1,7 +1,7 @@
 # CarX RCN
 
 ![GitHub all releases](https://img.shields.io/github/downloads/Hi-ImKyle/CarX_RCN/total)
-![My Discord](https://img.shields.io/badge/Discord-KingFisher%230001-738ADB)
+![My Discord](https://img.shields.io/badge/Discord-KingFisher%232375-738ADB)
 
 ---
 
